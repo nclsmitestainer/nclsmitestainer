@@ -1,5 +1,5 @@
 
-![profile-banner](https://github.com/user-attachments/assets/d2595317-e056-4fb2-8299-4b3b0aeb7bd2)
+![banner](https://github.com/user-attachments/assets/03852ecb-768b-4d34-8641-a7cb73886e30)
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Love%20You%20Gesture.webp" alt="Love You Gesture" width="25" height="25" /> Olá! Bem-vindo ao meu perfil do GitHub! #
 
