@@ -21,7 +21,7 @@ Gosto de sempre trazer novas ideias e tecnologias para os projetos. Meu foco é 
 Além de criar experiências e interfaces incríveis, estou me aprofundando na criação de APIs robustas e completas, evoluindo para um Desenvolvedor FullStack apaixonado por interfaces intuitivas e APIs didáticas.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> Tecnologias que trabalho
-Aqui estão ferramentas e tecnologias que uso em meu dia=a=dia para transformar ideias em realidade:
+Aqui estão ferramentas e tecnologias que uso em meu dia-a-dia para transformar ideias em realidade:
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
