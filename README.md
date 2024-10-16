@@ -3,7 +3,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Love%20You%20Gesture.webp" alt="Love You Gesture" width="25" height="25" /> Olá! Bem-vindo ao meu perfil do GitHub! #
 
-Meu nome é Nicolas Mitestainer, tenho 20 anos, e sou um desenvolvedor web frontend com foco em criar experiências e interfaces excepcionais. Minha especialidade é JavaScript e seus frameworks, como React e Next.js, além de gostar de trabalhar com Tailwind CSS e TypeScript.
+Meu nome é Nicolas Mitestainer, tenho 20 anos, e sou um Desenvolvedor Front-End com foco em criar experiências e interfaces excepcionais. Minha especialidade é JavaScript e seus frameworks, como React e Next, além de gostar de trabalhar com Tailwind CSS e TypeScript. Além dessa paixão por Front-End, agora estou me aprofundando no Back-End, para assim me tornar um Desenvolvedor FullStack.
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Call%20Me%20Hand.webp" alt="Call Me Hand" width="25" height="25" /> Sobre mim ##
